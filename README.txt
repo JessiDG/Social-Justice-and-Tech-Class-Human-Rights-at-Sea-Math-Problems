@@ -1,8 +1,6 @@
 # README for Boat capacity problems #
 
-This is the README file for the Boat capacity problems app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+This is for the Tech and Social Justice Hackathon I taught for Foothill College's Science Learning Institute in the summer of 2021.
 
 The files in this folder contain everything you need to run your app:
 
